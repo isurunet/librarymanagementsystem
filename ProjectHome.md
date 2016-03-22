@@ -1,0 +1,1 @@
+A J2EE based web application for implementing a Library Management System using Servlets, JSP, CSS, JavaScript etc.
